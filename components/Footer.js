@@ -14,22 +14,22 @@ const Footer = () => {
                                     BRAINLYEMAILS
                                 </h2>
                                 <ul>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Dashboard
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Components
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Commerces
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Docs
                                         </a>
@@ -43,22 +43,22 @@ const Footer = () => {
                                     CONTACTS
                                 </h2>
                                 <ul>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Github
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Facebook
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Twitter
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             LinkedIn
                                         </a>
@@ -72,22 +72,22 @@ const Footer = () => {
                                     HELP
                                 </h2>
                                 <ul>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Support
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Themes
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Plugins
                                         </a>
                                     </li>
-                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white transition-colors duration-200">
+                                    <li className="mb-4 hover:text-gray-800 font-medium dark:hover:text-white hover:bg-[#5886D9] rounded-xl duration-200">
                                         <a href="#">
                                             Emails
                                         </a>
