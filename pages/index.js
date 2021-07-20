@@ -13,14 +13,16 @@ export default function Home() {
         {/*<link rel="icon" href="/favicon.ico" />*/}
       </Head>
         <Header />
-<div className="items-center flex flex-col">
+<   div className="items-center flex flex-col">
 
         <TopText />
-        <TopImage />
+        <div className="flex items-center flex-col border-b-2 border-[#1E294E]">
+            <TopImage />
             <TrustedBy />
-</div>
-        <div className="">
         </div>
+    </div>
+    {/*<hr className="divide-y border-light-blue-500"/>*/}
+
       {/*<footer className="flex items-center justify-center w-full h-24 border-t">*/}
       {/*  <a*/}
       {/*    className="flex items-center justify-center"*/}
