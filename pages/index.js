@@ -30,7 +30,7 @@ export default function Home() {
 
     <div className="flex items-center flex-col mt-32">>
         <h2 className="text-[#7E8BB6] font-medium text-xl mt-3 mb-3">BRAINLYEMAILS</h2>
-        <h1 className="text-[#EBEBED] font-medium text-4xl mt-3 mb-3">How does it work?</h1>
+        <h1 className="text-[#EBEBED] font-medium text-6xl mt-3 mb-3">How does it work?</h1>
     </div>
     </div>
     {/*<hr className="divide-y border-light-blue-500"/>*/}
