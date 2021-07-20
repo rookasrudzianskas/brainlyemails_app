@@ -5,19 +5,19 @@ const TrustedBy = () => {
         <div className="mt-32 grid grid-cols-4 mb-20">
             {/*<div className="flex">*/}
                 <div className="ml-28">
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/brands/google.png" alt="" className=""/>
+                    <img src="/images/img_1.png" alt="" className=""/>
                 </div>
 
                 <div className="ml-28">
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/brands/slack.png" alt="" className=""/>
+                    <img src="/images/img_2.png" alt="" className=""/>
                 </div>
 
                 <div className="ml-28">
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/brands/amazon.png" alt="" className=""/>
+                    <img src="/images/img_3.png" alt="" className=""/>
                 </div>
 
                 <div className="ml-28 ">
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/brands/netflix.png" alt="" className=""/>
+                    <img src="/images/img_4.png" alt="" className=""/>
                 </div>
             {/*</div>*/}
 

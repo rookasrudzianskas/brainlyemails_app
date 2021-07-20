@@ -6,7 +6,7 @@ const ProductCards = () => {
         <div className="grid grid-rows-3 grid-flow-col gap-5">
             <div className="max2-w-xl py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/dashboardicon.png" alt=""/>
+                    <img src="/images/img_5.png" alt=""/>
                 </div>
                 <div>
                     <h2 className="text-[#EBEBED] font-medium text-2xl mt-3 mb-3">Send transactional emails via API ✉️</h2>
@@ -18,7 +18,7 @@ const ProductCards = () => {
 
             <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/comment.png" alt=""/>
+                    <img src="/images/img_7.png" alt=""/>
                 </div>
                 <div>
                     <h2 className="text-[#EBEBED] font-medium text-2xl mt-3 mb-3">Send product updates & newsletters 📰</h2>
@@ -30,7 +30,7 @@ const ProductCards = () => {
 
             <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/trilored.png" alt=""/>
+                    <img src="/images/img_9.png" alt=""/>
                 </div>
                 <div>
                     <h2 className="text-[#EBEBED] font-medium text-2xl mt-3 mb-3">Mobile-responsive 📞 ️</h2>
@@ -42,7 +42,7 @@ const ProductCards = () => {
 
             <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/statistics.png" alt=""/>
+                    <img src="/images/img_6.png" alt=""/>
                 </div>
                 <div>
                     <h2 className="text-[#EBEBED] font-medium text-2xl mt-3 mb-3">All your subscribers in one place 🧑‍💻</h2>
@@ -54,7 +54,7 @@ const ProductCards = () => {
 
             <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/profile.png" alt=""/>
+                    <img src="/images/img_8.png" alt=""/>
                 </div>
                 <div>
                     <h2 className="text-[#EBEBED] font-medium text-2xl mt-3 mb-3">Automate emails and email sequences 🚘 ️</h2>
@@ -66,7 +66,7 @@ const ProductCards = () => {
 
             <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
-                    <img src="https://www.brainlyemails.com/assets/img/gallery/folder.png" alt=""/>
+                    <img src="/images/img_10.png" alt=""/>
                 </div>
                 <div>
                     <h2 className="text-[#EBEBED] font-medium text-2xl mt-3 mb-3">Workflow 👷‍♂️ ️</h2>
