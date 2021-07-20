@@ -6,7 +6,7 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-            <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9">
+            <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                 <div className="flex text-white  items-center justify-between">
                     <p className="text-5xl font-medium mb-4">
                         HOBBY
@@ -100,7 +100,7 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-                <div className="shadow-lg rounded-2xl w-96 -mt-14 h-auto p-14 bg-[#131B3A] dark:bg-gray-800 p-4  mr-9">
+                <div className="shadow-lg rounded-2xl w-96 -mt-14 h-auto p-14 bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex text-white  items-center justify-between">
                         <p className="text-5xl font-medium mb-4">
                             STARTUP
@@ -214,7 +214,7 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-                <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9">
+                <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex text-white  items-center justify-between">
                         <p className="text-5xl flex flex-grow items-center justify-center font-medium mb-4">
                             TO THE MOON
