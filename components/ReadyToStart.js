@@ -18,7 +18,7 @@ const ReadyToStart = () => {
 
             </span>
                         <span className="block text-[#EBEBED] font-medium text-5xl mb-10">
-                Start Your Free Trail Today It's today or never ever!
+                Start Your Free Trial Today It's today or never ever!
             </span>
                     </h2>
                         <div className="lg:mt-0 lg:flex-shrink-0">
