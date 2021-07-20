@@ -2,7 +2,7 @@ import React from 'react';
 
 const TopText = () => {
     return (
-        <div className="flex flex-row mx-20 mt-36 max-w-screen-xl justify-items-center	">
+        <div className="flex flex-row mx-24 mt-36 max-w-screen-xl justify-items-center	">
             <div>
                 <h1 className="text-[#EBEBED] text-7xl font-bold leading-tight max-w-screen-md">The new era of smart emails platform 👨‍💻</h1>
             </div>

@@ -11,9 +11,9 @@ export default function Home() {
         <title>👋 Brainlyemails</title>
         {/*<link rel="icon" href="/favicon.ico" />*/}
       </Head>
-<div className="max-w-screen-3xl">
-
         <Header />
+<div className="items-center flex flex-col">
+
         <TopText />
         <TopImage />
 </div>
