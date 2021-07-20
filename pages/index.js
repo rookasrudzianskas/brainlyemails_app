@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import TopText from "../components/TopText";
 import TopImage from "../components/TopImage";
 import TrustedBy from "../components/TrustedBy";
+import FiveClicks from "../components/FiveClicks";
 
 export default function Home() {
   //   h-screen justify-between for making footer
@@ -20,6 +21,8 @@ export default function Home() {
             <TopImage />
             <TrustedBy />
         </div>
+
+    <FiveClicks />
     </div>
     {/*<hr className="divide-y border-light-blue-500"/>*/}
 
