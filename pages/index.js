@@ -9,6 +9,7 @@ import ReadyToStart from "../components/ReadyToStart";
 import TwoSideCards from "../components/TwoSideCards";
 import PricingCards from "../components/PricingCards";
 import CTA from "../components/CTA";
+import Footer from "../components/Footer";
 
 export default function Home() {
   //   h-screen justify-between for making footer
@@ -55,14 +56,7 @@ export default function Home() {
     {/*<hr className="divide-y border-light-blue-500"/>*/}
 
       {/*<footer className="flex items-center justify-center w-full h-24 border-t">*/}
-      {/*  <a*/}
-      {/*    className="flex items-center justify-center"*/}
-      {/*    href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"*/}
-      {/*    target="_blank"*/}
-      {/*    rel="noopener noreferrer"*/}
-      {/*  >*/}
-      {/*    Powered by{' '} Rookas*/}
-      {/*  </a>*/}
+       <Footer />
       {/*</footer>*/}
     </div>
   )
