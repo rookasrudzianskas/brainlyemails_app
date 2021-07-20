@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Header from "../components/Header";
 import TopText from "../components/TopText";
 import TopImage from "../components/TopImage";
+import TrustedBy from "../components/TrustedBy";
 
 export default function Home() {
   //   h-screen justify-between for making footer
@@ -16,6 +17,7 @@ export default function Home() {
 
         <TopText />
         <TopImage />
+        <TrustedBy />
 </div>
 
 
