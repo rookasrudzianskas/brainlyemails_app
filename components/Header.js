@@ -8,7 +8,7 @@ const Header = () => {
             </div>
 
             <div className="flex mt-8 mr-20 mb-5 ">
-                <p>Join now!</p>
+                <p className="px-12 py-4 text-white rounded-lg bg-[#131B3A] font-medium">Join now! It's live 🚀</p>
             </div>
         </div>
     );
