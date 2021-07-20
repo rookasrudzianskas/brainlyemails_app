@@ -8,7 +8,7 @@ const PricingCards = () => {
 
             <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                 <div className="flex flex-col text-white  items-center">
-                    <p className="text-7xl font-medium mb-4 mt-5">
+                    <p className="text-7xl text-[#EBEBED] font-medium mb-4 mt-5">
                         HOBBY
                     </p>
                     <p className="text-5xl flex font-bold flex flex-col">
@@ -105,7 +105,7 @@ const PricingCards = () => {
 
                 <div className="shadow-lg rounded-2xl w-96 h-auto  -mt-20 p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex flex-col text-white  items-center">
-                        <p className="text-7xl font-medium mb-4 mt-5">
+                        <p className="text-7xl  text-[#EBEBED] font-medium mb-4 mt-5">
                             STARTUP
                         </p>
                         <p className="text-5xl flex font-bold flex flex-col">
@@ -222,7 +222,7 @@ const PricingCards = () => {
 
                 <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex flex-col text-white justify-center items-center">
-                        <p className="text-5xl font-medium mb-4 mt-5">TO THE MOON
+                        <p className="text-5xl  text-[#EBEBED] font-medium mb-4 mt-5">TO THE MOON
                         </p>
                         <p className="text-5xl flex font-bold flex flex-col">
                             <div className="flex">
