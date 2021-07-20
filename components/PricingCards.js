@@ -2,7 +2,7 @@ import React from 'react';
 
 const PricingCards = () => {
     return (
-        <div className="flex flex-row">
+        <div className="flex flex-row mx-24 max-w-screen-xl justify-items-center mb-32">
 
             <div className="mt-24">
 
@@ -100,7 +100,7 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-                <div className="shadow-lg rounded-2xl w-96 h-auto p-14 bg-[#131B3A] dark:bg-gray-800 p-4  mr-9">
+                <div className="shadow-lg rounded-2xl w-96 -mt-14 h-auto p-14 bg-[#131B3A] dark:bg-gray-800 p-4  mr-9">
                     <div className="flex text-white  items-center justify-between">
                         <p className="text-5xl font-medium mb-4">
                             STARTUP
@@ -214,8 +214,8 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-                <div className="shadow-lg rounded-2xl w-96 h-auto p-14 bg-[#131B3A] dark:bg-gray-800 p-4 mr-9">
-                    <div className="flex flex-col text-white  items-center justify-between">
+                <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9">
+                    <div className="flex text-white  items-center justify-between">
                         <p className="text-5xl flex flex-grow items-center justify-center font-medium mb-4">
                             TO THE MOON
                         </p>
