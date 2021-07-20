@@ -6,7 +6,7 @@ const CTA = () => {
 
             <div className="bg-[#0059F7] rounded-xl dark:bg-gray-800 ">
                 <div
-                    className="lg:flex lg:items-center lg:justify-between w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
+                    className="lg:flex leading-tight	 lg:items-center lg:justify-between w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
                     <h2 className="text-[#6D9AF3] font-medium text-2xl mt-3 mb-3">
             <span className="block mb-5 ">
                 READY TO START ?
