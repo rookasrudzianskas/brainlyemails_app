@@ -4,7 +4,7 @@ const ProductCards = () => {
     return (
         <div className="flex flex-row mx-24 mt-16 max-w-screen-xl justify-items-center">
         <div className="grid grid-rows-3 grid-flow-col gap-5">
-            <div className="max2-w-xl py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] transition-duration:250 cursor-pointer border-[#1E294E]">
+            <div className="max2-w-xl py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="https://www.brainlyemails.com/assets/img/gallery/dashboardicon.png" alt=""/>
                 </div>
@@ -16,7 +16,7 @@ const ProductCards = () => {
                 </div>
             </div>
 
-            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] transition-duration:250 cursor-pointer border-[#1E294E]">
+            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="https://www.brainlyemails.com/assets/img/gallery/comment.png" alt=""/>
                 </div>
@@ -28,7 +28,7 @@ const ProductCards = () => {
                 </div>
             </div>
 
-            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] transition-duration:250 cursor-pointer border-[#1E294E]">
+            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="https://www.brainlyemails.com/assets/img/gallery/trilored.png" alt=""/>
                 </div>
@@ -40,7 +40,7 @@ const ProductCards = () => {
                 </div>
             </div>
 
-            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] transition-duration:250 cursor-pointer border-[#1E294E]">
+            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="https://www.brainlyemails.com/assets/img/gallery/statistics.png" alt=""/>
                 </div>
@@ -52,7 +52,7 @@ const ProductCards = () => {
                 </div>
             </div>
 
-            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] transition-duration:250 cursor-pointer border-[#1E294E]">
+            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="https://www.brainlyemails.com/assets/img/gallery/profile.png" alt=""/>
                 </div>
@@ -64,7 +64,7 @@ const ProductCards = () => {
                 </div>
             </div>
 
-            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] transition-duration:250 cursor-pointer border-[#1E294E]">
+            <div className="max-2w-xl  py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="https://www.brainlyemails.com/assets/img/gallery/folder.png" alt=""/>
                 </div>
