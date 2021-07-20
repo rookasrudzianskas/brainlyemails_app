@@ -6,6 +6,7 @@ import TrustedBy from "../components/TrustedBy";
 import FiveClicks from "../components/FiveClicks";
 import ProductCards from "../components/ProductCards";
 import ReadyToStart from "../components/ReadyToStart";
+import TwoSideCards from "../components/TwoSideCards";
 
 export default function Home() {
   //   h-screen justify-between for making footer
@@ -32,6 +33,8 @@ export default function Home() {
         <h2 className="text-[#7E8BB6] font-medium text-xl mt-3 mb-3">BRAINLYEMAILS</h2>
         <h1 className="text-[#EBEBED] font-medium text-6xl mt-3 mb-3">How does it work?</h1>
     </div>
+
+    <TwoSideCards />
     </div>
     {/*<hr className="divide-y border-light-blue-500"/>*/}
 
