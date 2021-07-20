@@ -17,9 +17,9 @@ export default function Home() {
 
         <TopText />
         <TopImage />
+            <TrustedBy />
 </div>
         <div className="">
-            <TrustedBy />
         </div>
       {/*<footer className="flex items-center justify-center w-full h-24 border-t">*/}
       {/*  <a*/}
