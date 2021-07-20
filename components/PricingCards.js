@@ -7,12 +7,15 @@ const PricingCards = () => {
             <div className="mt-24">
 
             <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
-                <div className="flex text-white  items-center justify-between">
-                    <p className="text-5xl font-medium mb-4">
+                <div className="flex flex-col text-white  items-center">
+                    <p className="text-7xl font-medium mb-4 mt-5">
                         HOBBY
                     </p>
-                    <p className="text-4xl font-bold flex flex-col">
-                        $99
+                    <p className="text-5xl flex font-bold flex flex-col">
+                        <div className="flex">
+                        <span className="text-[#7E8BB6]">$</span>
+                            <span>99</span>
+                        </div>
                         <span className="font-thin text-right text-sm">
                 month
             </span>
@@ -100,13 +103,16 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-                <div className="shadow-lg rounded-2xl w-96 -mt-14 h-auto p-14 bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
-                    <div className="flex text-white  items-center justify-between">
-                        <p className="text-5xl font-medium mb-4">
+                <div className="shadow-lg rounded-2xl w-96 h-auto  -mt-20 p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
+                    <div className="flex flex-col text-white  items-center">
+                        <p className="text-7xl font-medium mb-4 mt-5">
                             STARTUP
                         </p>
-                        <p className="text-4xl font-bold flex flex-col">
-                            $150
+                        <p className="text-5xl flex font-bold flex flex-col">
+                            <div className="flex">
+                                <span className="text-[#7E8BB6]">$</span>
+                                <span>150</span>
+                            </div>
                             <span className="font-thin text-right text-sm">
                 month
             </span>
@@ -215,12 +221,14 @@ const PricingCards = () => {
             <div className="mt-24">
 
                 <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
-                    <div className="flex text-white  items-center justify-between">
-                        <p className="text-5xl flex flex-grow items-center justify-center font-medium mb-4">
-                            TO THE MOON
+                    <div className="flex flex-col text-white justify-center items-center">
+                        <p className="text-5xl font-medium mb-4 mt-5">TO THE MOON
                         </p>
-                        <p className="text-4xl font-bold flex flex-col">
-                            $220
+                        <p className="text-5xl flex font-bold flex flex-col">
+                            <div className="flex">
+                                <span className="text-[#7E8BB6]">$</span>
+                                <span>220</span>
+                            </div>
                             <span className="font-thin text-right text-sm">
                 month
             </span>
