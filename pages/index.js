@@ -14,7 +14,7 @@ import Footer from "../components/Footer";
 export default function Home() {
   //   h-screen justify-between for making footer
   return (
-    <div className="flex min-w-540 overflow-auto flex-col min-h-screen py-2 bg-[#070E27] ">
+    <div className="flex min-w-540 overflow-auto flex-col py-2 bg-[#070E27] ">
       <Head>
         <title>👋 Brainlyemails</title>
         {/*<link rel="icon" href="/favicon.ico" />*/}
@@ -23,8 +23,8 @@ export default function Home() {
         <Header />
         </div>
 <   div className="items-center flex flex-col">
-
         <TopText />
+
         <div className="flex items-center flex-col border-b-2 border-[#1E294E]">
             <TopImage />
             <TrustedBy />
@@ -40,8 +40,9 @@ export default function Home() {
         <h1 className="text-[#EBEBED] font-medium text-6xl mt-3 mb-3">How does it work?</h1>
     </div>
 
-    <TwoSideCards />
-
+    <div className="">>
+        <TwoSideCards />
+    </div>
     <div className="flex items-center flex-col mt-32">
         <h2 className="text-[#7E8BB6] font-medium text-xl mt-3 mb-3">BRAINLYEMAILS</h2>
         <h1 className="text-[#EBEBED] font-medium text-6xl mt-3 mb-12">Pricing</h1>
