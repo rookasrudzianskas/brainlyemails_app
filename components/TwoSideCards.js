@@ -16,15 +16,15 @@ const TwoSideCards = () => {
 
         <div className="flex flex-col sm:flex-row mx-24 mb-12 mt-14 max-w-screen-lg justify-items-center items-center">
             <div className="order-first sm:order-none">>
-                <img className="ml-0 my-10 sm:ml-10" src="/images/img_12.png" alt=""/>
+                <img className=" my-10 sm:ml-10" src="/images/img_12.png" alt=""/>
             </div>
-            <div className="flex flex-col max-w-md">
+            <div className="ml-16 flex flex-col max-w-md">
                 <p className="text-[#EBEBED] font-medium text-5xl mt-3 mb-3">UNDER THE HOOD</p>
                 <p className="text-[#7E8BB6] text-lg">Brainlyemails is built upon Google’s CLOUD infrastructure and uses Google’s mail servers, which means highly reliable email delivery that scales extremely well.</p>
             </div>
         </div>
 
-            <div className="flex flex-row mx-24 mb-12 mt-14 max-w-screen-lg justify-items-center items-center">
+            <div className="flex flex-col sm:flex-row  mx-24 mb-12 mt-14 max-w-screen-lg justify-items-center items-center">
                 <div className="flex flex-col max-w-md">
                     <p className="text-[#EBEBED] font-medium text-5xl mt-3 mb-3">Plug’n’play with Stripe</p>
                     <p className="text-[#7E8BB6] text-lg">Import your customers' emails from Stripe into Brainlyemails with one click, no code required. After that, you can automate sending of emails that help convert, engage, prevent churn & more.</p>
@@ -42,8 +42,8 @@ const TwoSideCards = () => {
                         </ol>
                     </div>
                 </div>
-                <div>
-                    <img className="ml-10" src="/images/img_13.png" alt=""/>
+                <div  className="order-first sm:order-none">
+                    <img className="ml-0 my-10 sm:ml-10" src="/images/img_13.png" alt=""/>
                 </div>
 
             </div>
