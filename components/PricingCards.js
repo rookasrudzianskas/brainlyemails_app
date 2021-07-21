@@ -2,7 +2,7 @@ import React from 'react';
 
 const PricingCards = () => {
     return (
-        <div className="flex flex-row mx-24 max-w-screen-xl justify-items-center mb-32">
+        <div className="flex flex-col sm:flex-row mx-24 max-w-screen-xl justify-items-center mb-32">
 
             <div className="mt-24">
 
@@ -103,7 +103,7 @@ const PricingCards = () => {
 
             <div className="mt-24">
 
-                <div className="shadow-lg rounded-2xl w-96 h-auto  -mt-20 p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
+                <div className="shadow-lg rounded-2xl w-96 h-auto  md:-mt-20 p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex flex-col text-white  items-center">
                         <p className="text-4xl  text-green-500 font-medium mb-4 mt-5">
                             STARTUP<span className="text-[#7E8BB6]"> STAGE</span>
