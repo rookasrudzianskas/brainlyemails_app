@@ -4,7 +4,7 @@ const TopText = () => {
     return (
         <div className="flex flex-col mx-24 mt-16 lg:mt-8 max-w-screen-xl justify-items-center md:flex-row lg:mt-36">
             <div>
-                <h1 className="text-[#EBEBED] text-6xl font-bold leading-tight max-w-screen-md lg:text-7xl">The new era of smart emails platform 👨‍💻</h1>
+                <h1 className="text-[#EBEBED] text-6xl font-bold leading-tight max-w-screen-md md:leading-tight lg:text-7xl lg:leading-tight">The new era of smart emails platform 👨‍💻</h1>
             </div>
 
             <div>
