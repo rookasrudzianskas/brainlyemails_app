@@ -19,7 +19,9 @@ export default function Home() {
         <title>👋 Brainlyemails</title>
         {/*<link rel="icon" href="/favicon.ico" />*/}
       </Head>
+        <div className="flex flex-col md:ml-24">
         <Header />
+        </div>
 <   div className="items-center flex flex-col">
 
         <TopText />
