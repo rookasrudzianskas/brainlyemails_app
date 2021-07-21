@@ -8,8 +8,8 @@ const PricingCards = () => {
 
             <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                 <div className="flex flex-col text-white  items-center">
-                    <p className="text-7xl text-[#EBEBED] font-medium mb-4 mt-5">
-                        HOBBY
+                    <p className="text-4xl text-[#EBEBED] font-medium mb-4 mt-5">
+                        HOBBY<span className="text-[#7E8BB6]"> STAGE</span>
                     </p>
                     <p className="text-5xl flex font-bold flex flex-col">
                         <div className="flex">
@@ -105,8 +105,8 @@ const PricingCards = () => {
 
                 <div className="shadow-lg rounded-2xl w-96 h-auto  -mt-20 p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex flex-col text-white  items-center">
-                        <p className="text-7xl  text-[#EBEBED] font-medium mb-4 mt-5">
-                            STARTUP
+                        <p className="text-4xl  text-green-500 font-medium mb-4 mt-5">
+                            STARTUP<span className="text-[#7E8BB6]"> STAGE</span>
                         </p>
                         <p className="text-5xl flex font-bold flex flex-col">
                             <div className="flex">
@@ -222,7 +222,7 @@ const PricingCards = () => {
 
                 <div className="shadow-lg rounded-2xl w-96 h-auto p-14  bg-[#131B3A] dark:bg-gray-800 p-4  mr-9 hover:bg-[#161F45] duration-200 cursor-pointer">
                     <div className="flex flex-col text-white justify-center items-center">
-                        <p className="text-5xl  text-[#EBEBED] font-medium mb-4 mt-5">TO THE MOON
+                        <p className="text-4xl  text-[#EBEBED] font-medium mb-4 mt-5">TO THE<span className="text-[#7E8BB6]"> MOON</span>
                         </p>
                         <p className="text-5xl flex font-bold flex flex-col">
                             <div className="flex">
