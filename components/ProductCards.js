@@ -3,7 +3,7 @@ import React from 'react';
 const ProductCards = () => {
     return (
         <div className="flex flex-row mx-24 mt-16 max-w-screen-xl justify-items-center">
-        <div className="grid grid-rows-3 grid-flow-col gap-5">
+        <div className="flex flex-col md:grid grid-rows-3 grid-flow-col gap-5">
             <div className="max2-w-xl py-12 px-14 flex items-left flex-col border-2 rounded-xl hover:bg-[#131B3A] duration-250 cursor-pointer border-[#1E294E]">
                 <div>
                     <img src="/images/img_5.png" alt=""/>
