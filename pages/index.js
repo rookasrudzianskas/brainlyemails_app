@@ -27,7 +27,7 @@ export default function Home() {
         <TopText />
         <div className="flex items-center flex-col border-b-2 border-[#1E294E]">
             <TopImage />
-            {/*<TrustedBy />*/}
+            <TrustedBy />
         </div>
 
     <FiveClicks />
