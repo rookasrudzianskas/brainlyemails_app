@@ -14,7 +14,7 @@ import Footer from "../components/Footer";
 export default function Home() {
   //   h-screen justify-between for making footer
   return (
-    <div className="flex overflow-auto	 flex-col min-h-screen py-2 bg-[#070E27] ">
+    <div className="flex overflow-auto flex-col min-h-screen py-2 bg-[#070E27] ">
       <Head>
         <title>👋 Brainlyemails</title>
         {/*<link rel="icon" href="/favicon.ico" />*/}
