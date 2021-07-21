@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
     return (
         <div className="flex-col sticky top-0 z-50 flex items-center justify-between md:flex-row sticky top-0 z-50 flex">
-            <div className="flex w-28 h-10 mt-8 ml-18 mb-5 sm:items-center ">
+            <div className="flex w-28 h-10 mt-8 mb-5 sm:items-center ">
                 <img src="/images/img_14.png" alt=""/>
             </div>
 
