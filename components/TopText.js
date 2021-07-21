@@ -2,9 +2,9 @@ import React from 'react';
 
 const TopText = () => {
     return (
-        <div className="flex flex-row mx-24 mt-36 lg:mt-8 max-w-screen-xl justify-items-center sm:flex flex-col	">
+        <div className="flex flex-col mx-24 mt-16 lg:mt-8 max-w-screen-xl justify-items-center md:flex-row lg:mt-36">
             <div>
-                <h1 className="text-[#EBEBED] text-7xl lg:text-3xl font-bold leading-tight max-w-screen-md sm:text-3xl">The new era of smart emails platform 👨‍💻</h1>
+                <h1 className="text-[#EBEBED] text-6xl font-bold leading-tight max-w-screen-md lg:text-7xl ">The new era of smart emails platform 👨‍💻</h1>
             </div>
 
             <div>
