@@ -316,7 +316,6 @@ const PricingCards = () => {
                             <p className="text-[#7E8BB6] text-xl">Premium Components</p>
                         </li>
                         </li>
-                        </li>
 
                         <li className="mb-3 flex items-center ">
                             <svg className="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" width="6" height="6"
