@@ -4,6 +4,7 @@ const PricingCards = () => {
     return (
         //sm:flex-row mx-24 max-w-screen-xl justify-items-center mb-32
         //sm:flex-row mx-24 max-w-screen-xl justify-items-center mb-32
+        //sm:flex-row mx-24 max-w-screen-xl justify-items-center mb-32
         <div className="flex flex-col sm:grid grid-cols-2 gap-4 ">
 
             <div className="mt-24">
