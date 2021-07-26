@@ -3,7 +3,7 @@ import React from 'react';
 const PricingCards = () => {
     return (
         //sm:flex-row mx-24 max-w-screen-xl justify-items-center mb-32
-        <div className="flex flex-col sm:grid grid-cols-3 gap-4 mb-16 ">
+        <div className="flex mx-auto flex-col sm:grid grid-cols-3 gap-4 mb-16 ">
 
             <div className="mt-24">
 
