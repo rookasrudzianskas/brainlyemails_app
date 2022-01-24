@@ -14,13 +14,21 @@ import Footer from "../components/Footer";
 export default function Home() {
   //   h-screen justify-between for making footer
   return (
-    <div className="flex flex-col py-2 bg-[#070E27] ">
+    <div className="flex flex-col py-2 bg-black h-screen ">
       <Head>
         <title>👋 Brainlyemails</title>
         {/*<link rel="icon" href="/favicon.ico" />*/}
       </Head>
         <div className="flex flex-col md:ml-24">
         <Header />
+
+
+        </div>
+
+
+        <div className="w-full flex items-center justify-center mt-36 flex flex-col">
+            <h1 className="text-5xl font-bold text-gray-100 xs:text-5xl sm:text-6xl md:text-8xl lg:text-9xl">Brainlyemails</h1>
+            <h2 className="text-xl font-bold text-gray-100 mt-10 xs:text-xl sm:text-2xl md:text-5xl lg:text-7xl">Coming in Europe, in just 7 days!</h2>
         </div>
 {/*<   div className="items-center flex flex-col mx-0">*/}
 {/*        <TopText />*/}
