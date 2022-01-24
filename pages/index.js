@@ -30,6 +30,7 @@ export default function Home() {
             <h1 className="text-5xl font-bold text-gray-100 xs:text-5xl sm:text-6xl md:text-8xl lg:text-9xl">Brainlyemails</h1>
             <h2 className="text-xl font-bold text-gray-100 mt-10 xs:text-xl sm:text-2xl md:text-5xl lg:text-7xl">Coming in Europe, in just 7 days!</h2>
         </div>
+
 {/*<   div className="items-center flex flex-col mx-0">*/}
 {/*        <TopText />*/}
 
