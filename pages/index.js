@@ -28,7 +28,7 @@ export default function Home() {
 
         <div className="w-full flex items-center justify-center mt-36 flex flex-col">
             <h1 className="text-5xl font-bold text-gray-100 xs:text-5xl sm:text-6xl md:text-8xl lg:text-9xl">Brainlyemails</h1>
-            <h2 className="text-xl font-bold text-gray-100 mt-10 xs:text-xl sm:text-2xl md:text-5xl lg:text-7xl">Coming in Europe, in just 7 days!</h2>
+            <h2 className="text-xl font-bold text-gray-100 mt-10 xs:text-xl sm:text-2xl md:text-3xl lg:text-3xl">Already live in the USA, Coming in the Europe, in just 7 days!</h2>
         </div>
 
 {/*<   div className="items-center flex flex-col mx-0">*/}
