@@ -8,7 +8,7 @@ const Header = () => {
             </div>
 
             <div className="flex mt-8 mr-28 mb-5  ml-36 sm:items-center">
-                <p className="px-12 py-4 text-white rounded-lg bg-[#131B3A] font-medium">Join now! It's live 🚀</p>
+                <p className="px-12 py-4 text-white rounded-lg bg-[#131B3A] font-medium">Join soon! In 7 days starts in Lithuania 🚀</p>
             </div>
         </div>
     );
