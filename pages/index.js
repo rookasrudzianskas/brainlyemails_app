@@ -31,7 +31,6 @@ export default function Home() {
             <h2 className="text-xl font-bold text-gray-100 mt-10 xs:text-xl sm:text-2xl md:text-3xl lg:text-3xl">Already live in the USA, Coming in the Europe, in just 7 days!</h2>
         </div>
 
-
 {/*<   div className="items-center flex flex-col mx-0">*/}
 {/*        <TopText />*/}
 
